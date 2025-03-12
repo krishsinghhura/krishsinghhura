@@ -1,10 +1,6 @@
 <h1 align="center">Hey there! I'm Krish Singh Hura 👋</h1>
 <h3 align="center">🚀 MERN Stack | Next.js | Prisma | PostgreSQL | Solidity </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="your-username" />
-</p>
-
 ---
 
 ### 🛠 Tech Stack
