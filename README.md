@@ -1,9 +1,8 @@
-<h1 align="center">Hey there! I'm [Your Name] 👋</h1>
-<h3 align="center">🚀 MERN Stack | Next.js | Prisma | PostgreSQL | Solidity | AI Integrations</h3>
+<h1 align="center">Hey there! I'm Krish Singh Hura 👋</h1>
+<h3 align="center">🚀 MERN Stack | Next.js | Prisma | PostgreSQL | Solidity </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="your-username" />
-  <a href="https://github.com/your-username?tab=followers"><img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social" alt="GitHub Followers" /></a>
 </p>
 
 ---
