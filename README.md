@@ -19,7 +19,6 @@
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/-Hardhat-FEBC04?style=flat-square&logo=hardhat&logoColor=black)
-![Ethers.js](https://img.shields.io/badge/-Ethers.js-663399?style=flat-square&logo=ethereum&logoColor=white)
 
 
 ---
