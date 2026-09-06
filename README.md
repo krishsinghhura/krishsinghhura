@@ -1,27 +1,97 @@
-<h1 align="center">Hey there! I'm Krish Singh Hura 👋</h1>
-<h3 align="center">🚀 MERN Stack | Next.js | Prisma | PostgreSQL | Solidity </h3>
+<div align="center">
+
+  <!-- Animated Dynamic Banner Header -->
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,12,18,22,25&height=190&section=header&text=Krish%20Singh%20Hura&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20Systems%20%7C%20Cloud%20Architecture&descFontSize=18&descAlignY=62" width="100%" alt="Krish Singh Hura Header Banner" />
+
+  <!-- Animated Typing Subtitle -->
+
+  <a href="https://github.com/krishsinghhura">
+
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Full+Stack+Engineering;Backend+Architecture;Distributed+Systems;Cloud+Computing" alt="Typing SVG Animation" />
+
+  </a>
+
+  <p align="center">
+
+    <a href="https://www.linkedin.com/in/krish-s-33351420a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+    <a href="mailto:krishsinghhura@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+    <a href="https://github.com/krishsinghhura"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+  </p>
+
+</div>
 
 ---
 
-### 🛠 Tech Stack
-#### 🚀 Web & Backend
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+### 👨‍💻 Professional Summary
 
-#### 🏦 Blockchain
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/-Hardhat-FEBC04?style=flat-square&logo=hardhat&logoColor=black)
+- 🔭 **Current Focus**: Engineering AI-integrated workflows and automated backend pipelines.
 
+- ☁️ **Cloud & Infrastructure**: Building scalable microservices, containerized deployment systems, and background job queues with **Docker**, **AWS (ECS, S3, EC2)**, and **BullMQ**.
 
 ---
 
-### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/krish-s-33351420a/))
+### 🛠️ Tech Stack & Tooling
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=py,go,js,ts,cpp,react,nextjs,astro,nodejs,express,fastapi,postgres,mongodb,sqlite,redis,aws,gcp,docker,nginx,githubactions,linux,git&perline=11" alt="Tech Stack Icons" />
+
+</div>
+
+<br />
+
+<details>
+
+<summary><b>Detailed Breakdown of Skills</b></summary>
+
+<br />
+
+| Category | Technologies |
+
+| :--- | :--- |
+
+| **Languages** | Python, Go, JavaScript (ES6+), TypeScript, C++, SQL, Bash |
+
+| **Frontend & Web** | Next.js, React.js, Tailwind CSS, WebRTC, Astro, WebSockets |
+
+| **Backend & APIs** | Node.js, Express.js, Go (Fiber, Gin), FastAPI, REST APIs, GraphQL, Microservices, BullMQ |
+
+| **Databases & Cache** | PostgreSQL, MongoDB, MySQL, Redis, Memcached, SQLite, Supabase |
+
+| **Cloud & DevOps** | AWS (ECS, S3, EC2, Lambda), GCP, DigitalOcean, Docker, NGINX, GitHub Actions, CI/CD |
+
+| **AI & Workflows** | OpenAI APIs / Function Calling, LangChain, RAG Systems, Vector Embeddings / Ollama |
+
+</details>
+
+---
+
+### 📊 GitHub Activity & Real-Time Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=krishsinghhura&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishsinghhura&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishsinghhura&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,12,18,22,25&height=90&section=footer" width="100%" alt="Footer Banner" />
+
+</div>
