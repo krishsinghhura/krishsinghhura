@@ -16,14 +16,14 @@
 
 ---
 
-### 👨‍💻 Professional Summary
+### Professional Summary
 
-- 🔭 **Current Focus**: Engineering AI-integrated workflows and automated backend pipelines.
-- ☁️ **Cloud & Infrastructure**: Building scalable microservices, containerized deployment systems, and background job queues with **Docker**, **AWS (ECS, S3, EC2)**, and **BullMQ**.
+▸ **Current Focus**: Engineering AI-integrated workflows and automated backend pipelines.  
+▸ **Cloud & Infrastructure**: Building scalable microservices, containerized deployment systems, and background job queues with **Docker**, **AWS (ECS, S3, EC2)**, and **BullMQ**.
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### Tech Stack & Tooling
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,go,js,ts,cpp,react,nextjs,astro,nodejs,express,fastapi,postgres,mongodb,sqlite,redis,aws,gcp,docker,nginx,githubactions,linux,git&perline=11" alt="Tech Stack Icons" />
@@ -48,23 +48,9 @@
 
 ---
 
-### 🔬 Currently Exploring & Architectural Interests
+### Currently Exploring & Architectural Interests
 
-- ⚡ **High-Performance RPCs**: Designing type-safe, bidirectional microservice communication using **gRPC** and **Protocol Buffers**.
-- 📡 **Event-Driven & Real-Time Streaming**: Architecting scalable event pipelines with **Kafka**, **NATS**, **WebSockets**, and **WebRTC streaming**.
-- 🧱 **Distributed Systems & Consensus**: Exploring consensus models (**Raft**), write-ahead logging (**WAL**), distributed caching patterns, and fault-tolerant replication.
-- ⚙️ **Systems Performance**: Low-level networking primitives, connection multiplexing, and kernel-level observability (**eBPF**).
-
----
-
-### 📊 GitHub Activity & Real-Time Stats
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishsinghhura&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,12,18,22,25&height=90&section=footer" width="100%" alt="Footer Banner" />
-</div>
+▸ **High-Performance RPCs**: Designing type-safe, bidirectional microservice communication using **gRPC** and **Protocol Buffers**.  
+▸ **Event-Driven & Real-Time Streaming**: Architecting scalable event pipelines with **Kafka**, **NATS**, **WebSockets**, and **WebRTC streaming**.  
+▸ **Distributed Systems & Consensus**: Exploring consensus models (**Raft**), write-ahead logging (**WAL**), distributed caching patterns, and fault-tolerant replication.  
+▸ **Systems Performance**: Low-level networking primitives, connection multiplexing, and kernel-level observability (**eBPF**).
