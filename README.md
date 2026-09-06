@@ -48,6 +48,15 @@
 
 ---
 
+### 🔬 Currently Exploring & Architectural Interests
+
+- ⚡ **High-Performance RPCs**: Designing type-safe, bidirectional microservice communication using **gRPC** and **Protocol Buffers**.
+- 📡 **Event-Driven & Real-Time Streaming**: Architecting scalable event pipelines with **Kafka**, **NATS**, **WebSockets**, and **WebRTC streaming**.
+- 🧱 **Distributed Systems & Consensus**: Exploring consensus models (**Raft**), write-ahead logging (**WAL**), distributed caching patterns, and fault-tolerant replication.
+- ⚙️ **Systems Performance**: Low-level networking primitives, connection multiplexing, and kernel-level observability (**eBPF**).
+
+---
+
 ### 📊 GitHub Activity & Real-Time Stats
 
 <div align="center">
