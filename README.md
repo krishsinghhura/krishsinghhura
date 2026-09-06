@@ -55,16 +55,3 @@
 - 🧱 **Distributed Systems & Consensus**: Exploring consensus models (**Raft**), write-ahead logging (**WAL**), distributed caching patterns, and fault-tolerant replication.
 - ⚙️ **Systems Performance**: Low-level networking primitives, connection multiplexing, and kernel-level observability (**eBPF**).
 
----
-
-### 📊 GitHub Activity & Real-Time Stats
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishsinghhura&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,12,18,22,25&height=90&section=footer" width="100%" alt="Footer Banner" />
-</div>
